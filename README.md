@@ -23,7 +23,7 @@ Komponen berikut merupakan bagian dari karya HISANA STOCK:
 
 **Pernyataan hak cipta:**
 
-> Hak Cipta © 2026 Rafka Priandani. Seluruh hak dilindungi undang-undang.
+> Hak Cipta © 2026 Argia Rachmania. Seluruh hak dilindungi undang-undang.
 
 ### Merek dan Identitas Visual
 
@@ -39,4 +39,3 @@ HISANA STOCK menggunakan **MIT License**. Lisensi ini memungkinkan orang lain me
 Lisensi MIT berlaku untuk perangkat lunak yang didistribusikan dalam repository ini. Lisensi tersebut tidak dengan sendirinya memberikan hak atas nama, logo, atau merek HISANA STOCK.
 
 Lihat berkas [`LICENSE`](LICENSE) untuk teks lisensi selengkapnya.
-<img width="783" height="987" alt="image" src="https://github.com/user-attachments/assets/adee763d-f60a-4496-bd27-a6db12f2d9a0" />
